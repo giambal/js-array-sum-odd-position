@@ -1,6 +1,6 @@
 function oddPosition() {
   var myArr= [5 , 1 , 2 , 7 , 4];
-  var sum;
+  var sum=0;
   sum=Number(sum);
 
   for (var i = 0; i < myArr.length; i++) {
